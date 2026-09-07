@@ -4,7 +4,6 @@ Resource Roulette is a Minecraft Java Edition 1.21.1 Fabric mod that adds a cust
 
 Players place resources into an input chest connected to the Roulette Hopper. After a short processing period, the hopper performs a weighted random roll and sends a result to the output chest. Results can range from losing the entire input to receiving a small return, a decent reward, or a rare jackpot.
 
-> Work in progress.
 
 Features
 
