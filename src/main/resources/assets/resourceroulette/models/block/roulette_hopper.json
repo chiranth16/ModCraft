@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/hopper",
+  "textures": {
+    "top": "resourceroulette:block/roulette_hopper_top",
+    "side": "resourceroulette:block/roulette_hopper_outside",
+    "inside": "resourceroulette:block/roulette_hopper_inside",
+    "particle": "resourceroulette:block/roulette_hopper_outside"
+  }
+}

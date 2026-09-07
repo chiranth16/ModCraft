@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DDD",
+    "DHD",
+    "DDD"
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "H": { "item": "minecraft:hopper" }
+  },
+  "result": {
+    "id": "resourceroulette:roulette_hopper",
+    "count": 1
+  }
+}
